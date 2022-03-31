@@ -1,7 +1,7 @@
 # Task
 [SPOILER] company's task solution.
 
-There are two folders:
+There are two main folders:
 
 Project - This contains the solution
 
