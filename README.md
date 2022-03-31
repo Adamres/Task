@@ -3,6 +3,6 @@
 
 There are two folders:
 
-Project - This contains the solution
+Project - This contains the solution\n
 DatabaseSRC - This contains the database source code
 
