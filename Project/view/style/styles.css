@@ -1,0 +1,39 @@
+table{
+    border: 1px solid #cdcdcd;
+    padding: 8px;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,td{
+    border: 1px solid #cdcdcd;
+    padding: 8px;
+    width: 50%;
+}
+
+th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: rgb(1, 6, 3);
+    color: white;
+}
+
+.topnav {
+    position: relative;
+    background-color: #022d57;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.topnav a:hover {
+    background-color: white;
+    color: black;
+}
